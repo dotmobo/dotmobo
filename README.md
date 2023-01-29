@@ -1,6 +1,10 @@
 ## mobo, developer
 
+hi folks, follow me [here](https://linktr.ee/dotmobo) !
+
+### github stats
 ![](https://github-readme-stats.vercel.app/api?username=dotmobo&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dotmobo&hide=html,css,less,scss&langs_count=4&layout=compact)
 
 ### environment
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
